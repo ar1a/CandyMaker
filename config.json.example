@@ -1,0 +1,7 @@
+{
+  "username": "USERNAME",
+  "password": "PASSWORD",
+  "provider": "ptc", //ptc or google
+  "apikey": "GOOGLE API KEY HERE (geocoding)",
+  "location": "LOCATION HERE (lat/long or address)"
+}
