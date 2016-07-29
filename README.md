@@ -1,8 +1,8 @@
-#PokeManager
+#CandyMaker
 
 ###What is it?
 ---
-PokeManager goes through your Pokemon Go account and transfers away all duplicate pokemon with a lower CP!
+CandyMaker goes through your Pokemon Go account and transfers away all duplicate pokemon with a lower CP!
 
 ###Installation
 ---
