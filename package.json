@@ -1,6 +1,6 @@
 {
   "name": "candymaker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "node-geocoder": "^3.13.1",
+    "node-pogo-protos": "^1.1.1",
     "pogobuf": "^1.2.0"
   }
 }
